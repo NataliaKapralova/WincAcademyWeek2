@@ -37,7 +37,6 @@ const removeAllBtn = document.getElementById('remove-all-button');
 removeAllBtn.addEventListener('click', function(){ 
     parent.innerHTML = "";
     // console.log('works')
-
 });
 
 
